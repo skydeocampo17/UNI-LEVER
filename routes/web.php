@@ -14,3 +14,13 @@ Route::get('/select-college', [CollegeController::class, 'select'])->name('colle
 Route::resource('departments', DepartmentController::class);
 
 //EDIT TEST
+
+// Master
+
+// Hannah
+
+// Marverick
+
+// Aleonar
+
+// Michael Jackson
